@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Asgn1/Asgn1.iml" filepath="$PROJECT_DIR$/Asgn1/Asgn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Asgn3/Asgn3.iml" filepath="$PROJECT_DIR$/Asgn3/Asgn3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Asgn4-5/Asgn4-5.iml" filepath="$PROJECT_DIR$/Asgn4-5/Asgn4-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Asgn5/Asgn5.iml" filepath="$PROJECT_DIR$/Asgn5/Asgn5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Asgn6/Asgn6.iml" filepath="$PROJECT_DIR$/Asgn6/Asgn6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSAssignments.iml" filepath="$PROJECT_DIR$/.idea/DSAssignments.iml" />
+    </modules>
+  </component>
+</project>

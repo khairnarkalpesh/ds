@@ -1,0 +1,11 @@
+127.0.0.1 - - [14/May/2023:15:40:39 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/May/2023:15:40:40 +0530] "GET /restfuljersey/WEB-INF/classes/com/javatpoint/rest/Hello.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [14/May/2023:15:40:40 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [14/May/2023:15:46:51 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/May/2023:15:46:51 +0530] "GET /restfuljersey/WEB-INF/classes/com/javatpoint/rest/Hello.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [14/May/2023:15:49:36 +0530] "GET /RESTful_Jersey_Hello_World/WEB-INF/classes/com/javapapers/webservices/rest/jersey/HelloWorld.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [14/May/2023:15:51:33 +0530] "GET /RESTful_Jersey_Hello_World/WEB-INF/classes/com/javapapers/webservices/rest/jersey/RESTfulJerseyClient.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [14/May/2023:15:56:02 +0530] "GET /RESTful_Jersey_Hello_World/WEB-INF/classes/com/javapapers/webservices/rest/jersey/RESTfulJerseyClient.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [14/May/2023:15:56:28 +0530] "GET /RESTful_Jersey_Hello_World/ HTTP/1.1" 404 782
+127.0.0.1 - - [14/May/2023:16:07:19 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/May/2023:16:07:19 +0530] "GET /restfuljersey/WEB-INF/classes/com/javatpoint/rest/Hello.java HTTP/1.1" 404 682

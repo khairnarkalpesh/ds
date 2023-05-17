@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="M">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Microsoft MPI" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Microsoft MPI" recursive="false" />
+  </library>
+</component>
